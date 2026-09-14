@@ -4,6 +4,7 @@ int main(){
     cout<<"o created";
     int a;
     cin>>a;
-    cout<<a:
+    cout<<a;
+    cout<<"bug fixed";
     return 0;
 }

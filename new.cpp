@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout<<"new repo created";
+    cout<<"o created";
     int a;
     cin>>a;
-    cout<<a;
+    cout<<a:
     return 0;
 }
